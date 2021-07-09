@@ -1,0 +1,17 @@
+.wrap {
+    padding: 20px;
+}
+
+.postWrap {
+    padding: 20px 0;
+}
+
+.postWrap img {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+button {
+    display: block;
+}

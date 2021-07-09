@@ -1,0 +1,26 @@
+.wrap {
+    display: grid;
+    grid-template-areas: 
+    'a b';
+    grid-template-columns: 3fr 8fr;
+}
+
+.dialogs {
+    grid-area: a;
+}
+
+.hr {
+    padding: 10px;
+    padding-left: 30px;
+}
+.hr a {
+    text-decoration: none;
+    color: black;
+}
+.hr a:hover {
+    color: gold;
+}
+
+.routers {
+    grid-area: b;
+}

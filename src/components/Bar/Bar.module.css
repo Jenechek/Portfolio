@@ -1,0 +1,18 @@
+.wrap {
+    grid-area: b;
+    background-color: rgb(253, 253, 253);
+    border: rgb(187, 187, 187) solid .5px;
+}
+
+.hr a {
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+.wrap a:hover {
+    color: gold;
+}
+
+.hr {
+    padding: 5px;
+}

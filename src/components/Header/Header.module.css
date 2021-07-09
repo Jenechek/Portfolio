@@ -1,0 +1,8 @@
+.wrap {
+    grid-area: a;
+    background-color: rgb(3, 190, 3);
+}
+
+.wrap img {
+    width: 50px;
+}

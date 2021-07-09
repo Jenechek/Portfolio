@@ -1,0 +1,12 @@
+
+.wrap {
+    padding: 10px;
+}
+.wrap img {
+    width: 300px;
+}
+
+.desc {
+    display: inline-block;
+    padding: 10px;
+}

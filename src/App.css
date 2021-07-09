@@ -1,0 +1,17 @@
+.appWrap {
+  margin: 0 auto;
+  margin-top: 20px;
+  display: grid;
+  width: 1100px;
+  grid-template-areas: 
+  'a a'
+  'b c';
+  grid-template-rows: 40px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+}
+
+.cont {
+  grid-area: c;
+  background-color: rgb(220, 220, 255);
+}
